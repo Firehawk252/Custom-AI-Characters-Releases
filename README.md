@@ -45,9 +45,13 @@ Model availability and performance depend on your computer's hardware.
 
 New versions and release notes will be published on the [Releases](../../releases) page.
 
-## Support and Feedback
+## Community & Support
 
-If you encounter a problem or have a suggestion, you can report it through the repository's Issues section.
+Have a bug to report, a feature request, a question, or just want to connect with other users?
+
+Join the **Custom AI Characters** community on Reddit!
+
+https://www.reddit.com/r/CustomAICharacters/
 
 ## Developer
 
