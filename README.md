@@ -57,6 +57,12 @@ https://www.reddit.com/r/CustomAICharacters/
 
 Created and maintained independently by the developer of Custom AI Characters.
 
+## Copyright
+
+Copyright © 2026 CAC-Developer-Firehawk252. All Rights Reserved.
+
+This project is proprietary software. Viewing the repository does not grant permission to copy, modify, redistribute, or commercially exploit its contents.
+
 ---
 
 *Custom AI Characters is proprietary software. See the application's End User License Agreement for usage terms.*
